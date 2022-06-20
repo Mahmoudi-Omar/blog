@@ -375,3 +375,9 @@ section hr {
         right: 30px !important;
     }
 }
+
+@media (max-width:1024px) {
+    .our-blog {
+        font-size: 80px;
+    }
+}
