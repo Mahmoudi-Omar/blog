@@ -71,7 +71,7 @@ header .menu-bar .logo p {
     line-height: 17px;
     color: #ffffff;
     font-weight: 300;
-    font-family: Archivo;
+    font-family: Archivo, sans-serif;
 }
 
 .our-blog {
