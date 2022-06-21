@@ -6,11 +6,11 @@ body {
 
 header {
     /* background-color: black; */
-    background-image: url("images/bg_header.PNG");
+    background-image: url("images/header2.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-position-y: -53px;
+    /* background-position-y: -53px; */
     height: 450px;
 }
 
